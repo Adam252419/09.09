@@ -1,0 +1,19 @@
+*{
+    text-align: center;
+}
+header{
+    background-color: antiquewhite;
+     font-size: 40px;
+}
+body{
+    font-size: 30px;
+    margin: auto;
+}
+.card{
+    border: 1px wheat solid;
+}
+main{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    
+}
